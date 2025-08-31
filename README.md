@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Mayuresh Sawant. 
-- 🎓 MSc Computing & Data Analytics student @ Saint Mary's University, Halifax. 
-- 👀 I’m interested in data science, analytics and machine learning. 
-- 🌱 I’m currently learning various skills to complement my grad studies. 
-- 🇨🇦 I’m looking for co-op or internship opportunities across Canada. 
-- 📫 Hit me up on my LinkedIn! 
+- 👋 Hi, I’m Mayuresh Sawant  
+- 💼 Manager, Fraud Detection @ RBC  
+- 🎓 MSc Computing & Data Analytics, Saint Mary's University  
+- 📊 5+ years in Data Science, Analytics, and ML  
+- 🔎 Focused on fraud detection, data-driven problem solving, and scalable solutions  
+- 🌱 Exploring AI, LLMs, GenAI, Data Engineering, and Cloud  
+- 📫 Hit me up on my LinkedIn!
 
 <!---
 m23sawant/m23sawant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
